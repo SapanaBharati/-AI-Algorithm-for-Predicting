@@ -6,7 +6,6 @@ Project Name: AI Algorithm for Predicting Timing Violations in RTL Design
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
-from sklearn.model_selection import train_test_split
 
 def main():
     # Taking user input for training dataset
