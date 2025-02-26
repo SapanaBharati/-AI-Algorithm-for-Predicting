@@ -1,4 +1,5 @@
-# AI-Algorithm-for-Predicting
+# AI-for-RTL-Timing-Predictor
+
 Project Name: AI Algorithm for Predicting Timing Violations in RTL Design
 ## Code:
 ```python
